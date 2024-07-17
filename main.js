@@ -1,1 +1,1 @@
-import "./src/js/task";
+import "./task";
